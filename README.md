@@ -1,4 +1,4 @@
-#Module 5 Challenge: Work Day Scheduler - Tom Parker
+# Module 5 Challenge: Work Day Scheduler - Tom Parker
 
 ## Application features;
 - Block sections representing each hour of a standard working day
