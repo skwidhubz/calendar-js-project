@@ -1,5 +1,4 @@
-Module 5 Challenge: Work Day Scheduler
-Tom Parker
+#Module 5 Challenge: Work Day Scheduler - Tom Parker
 
 ## Application features;
 - Block sections representing each hour of a standard working day
@@ -9,6 +8,7 @@ Tom Parker
 
 ## Link to deployed application:
 
+https://skwidhubz.github.io/calendar-js-project/
 
 ## Screenshot of functioning application:
 
